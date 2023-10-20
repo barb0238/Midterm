@@ -12,7 +12,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello():
-    return "Midterm things"
+    return "Midterm things (Cameron Barber)"
 
 @app.route('/students', methods=['GET'])
 def get_students():

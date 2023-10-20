@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/971f2e2a-9c25-4b54-97fd-283474105b0a/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/CameronBarberMidterm8915",
+    "appService.deploySubpath": "."
+}
